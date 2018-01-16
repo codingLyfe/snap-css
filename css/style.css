@@ -1,4 +1,4 @@
-.bold-under-red {
+.redAlert {
 	font-weight: bold;
 	text-decoration: underline;
 	color: red;
@@ -6,5 +6,4 @@
 
 .highlight {
 	background-color: yellow;
-	color: black;
 }
