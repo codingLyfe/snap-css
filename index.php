@@ -6,8 +6,9 @@
 	<title>Snap CSS</title>
 	</head>
 	<body>
-		<p>What is this?</p>
-		<p>I'm no good at styling!</p>
-		<p>Maybe I'll try highlighting...</p>
+		<h1>Snap CSS</h1>
+		<p class = "bold-under-red">What is this?</p>
+		<p class = "bold-under-red">I'm no good at styling!</p>
+		<p><span class = "highlight">Maybe I'll try highlighting...</span></p>
 	</body>
 </html>
